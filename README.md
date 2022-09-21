@@ -12,10 +12,12 @@ O Aplicativo tem como finalidade:
 5) Utilizar o Broadcast Receiver para monitorar a bateria do dispositivo. Nesse último caso, se a bateria estiver menor que 50%, essa dado desse ser informado ao usuário. 
 
 ## Layout web
-![apireservas](https://user-images.githubusercontent.com/32855779/174653014-e67552d0-c3a8-492a-92c5-fb669565d4e1.png)
-![listarreservas](https://user-images.githubusercontent.com/32855779/174653090-cc3654a3-95ab-41a6-8cea-a15314abcfe0.png)
-![novareserva](https://user-images.githubusercontent.com/32855779/174653161-b0da249d-36a5-4b19-8031-838f441e61c3.png)
-![obterreservapeloid](https://user-images.githubusercontent.com/32855779/174653220-b180bdf6-5c6a-4ea9-a91a-389a68542f49.png)
+![img1](https://user-images.githubusercontent.com/32855779/191420945-dd7f6fc7-df31-4ef6-bb7a-10299dfd00e3.PNG)
+![img2](https://user-images.githubusercontent.com/32855779/191420958-495ca266-c155-47f7-997c-8dfff763b465.PNG)
+![img3](https://user-images.githubusercontent.com/32855779/191420964-7a783540-ade7-4786-9590-e5ccf73763d0.png)
+![img4](https://user-images.githubusercontent.com/32855779/191420970-ca8ce43c-6033-4457-b0d9-86544da633ab.png)
+![img5](https://user-images.githubusercontent.com/32855779/191420980-80fe2788-ec97-400a-814c-a2a609001715.png)
+![img6](https://user-images.githubusercontent.com/32855779/191420992-0abb6ffa-9818-438f-beab-386f52df1852.png)
 
 # Tecnologias utilizadas
 
